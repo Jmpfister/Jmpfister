@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @Jmpfister
+- 🌱 I’m currently learning (CMU Graphics Coding)
